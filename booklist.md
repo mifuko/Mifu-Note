@@ -8,3 +8,12 @@
 - **Status**: Reading 2026-02-17 ~ 2026-02-19
 
 
+# 2 Google Skills: Generative AI Leader
+**Gen AI: Beyond the Chatbot**
+
+- **Provider**: Google  
+- **Platform**: Google Skills / Google Cloud Skills Boost  
+- **Category**: Generative AI / AI Strategy  
+- **Focus**: Foundation models, multimodal AI, business applications  
+- **Status**: Learning 2026-02-18 ~
+

@@ -9,7 +9,8 @@
 
 
 # 2 Google Skills: Generative AI Leader
-**Gen AI: Beyond the Chatbot**
+**2.1 Gen AI: Beyond the Chatbot**
+**2.2 Gen AI: Unlock Foundational Concepts**
 
 - **Provider**: Google  
 - **Platform**: Google Skills / Google Cloud Skills Boost  
